@@ -3,7 +3,7 @@
 
 I am a software engineer specializing in creating high loaded frontend and backend services, web applications and systems using React js and Django. I solve problems, automate things, and help businesses and people improve and improve their lives. </br>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">I am always open to collaborate on projects and innovative / destructive ideas. Learn more about me and contact me here:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/bekzod-baxriddinvich-567338227?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b2aigbdl4rtojyjo9foto8q%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bekzod-baxriddinvich-567338227?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b2aigbdl4rtojyjo9foto8q%3d%3d" height="30" width="40" /></a>
 <a href="https://fb.com/bekzodjon.sharobiddinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bekzodjon.sharobiddinov" height="30" width="40" /></a>
