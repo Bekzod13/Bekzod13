@@ -5,7 +5,7 @@ I am a software engineer specializing in creating high loaded frontend and backe
 
 <h4 align="left">I am always open to collaborate on projects and innovative / destructive ideas. Learn more about me and contact me here:</h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sukhrob_nuraliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekzod-baxriddinvich-567338227/)](https://www.linkedin.com/in/bekzod-baxriddinvich-567338227/) 
+[![Linkedin Badge](https://img.shields.io/badge/-bekzod_baxriddinovich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekzod-baxriddinvich-567338227/)](https://www.linkedin.com/in/bekzod-baxriddinvich-567338227/) 
 [![Facebook Badge](https://img.shields.io/badge/-Sukhrob_Nuraliev-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/bekzodjonsharobiddinov/)](https://www.facebook.com/bekzodjonsharobiddinov/) 
 [![Instagram Badge](https://img.shields.io/badge/-@sukhrobnuraliev_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/bekzodjonsharobiddinov/)](https://www.instagram.com/bekzodjonsharobiddinov/)
 [![Telegram Badge](https://img.shields.io/badge/@sukhrobnuraliev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/ey_yav)](https://t.me/ey_yav) 
