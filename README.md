@@ -22,7 +22,7 @@ I am a software engineer specializing in creating high loaded frontend and backe
 - :computer: I am currently working on React js & DjangoRestFramework
 - :hourglass_flowing_sand: Learn how to build mobile apps
 - :triangular_flag_on_post: I teach code at 'IT Center' and 'YouTube'
-- :grin: Counter Strike: Global Offensive
+- :grin: Counter Strike: Global Offensive ![Image](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 - :boom: I cook delicious meals
 - :rocket: Always ready to collaborate for Dev Experiments
 - :zap: Interesting fact: I like to attend meetings and network conferences to learn <br>
@@ -48,4 +48,17 @@ I am a software engineer specializing in creating high loaded frontend and backe
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Image](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Image](https://img.shields.io/badge/NativeScript-3655FF?style=for-the-badge&logo=NativeScript&logoColor=black)
+![Image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
+
+
 
